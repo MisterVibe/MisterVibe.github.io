@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Здесть MisterVibe учится говорить красиво. Сжигать на костре не рекоммендуется.
 
 [Link to another page](./another-page.html).
 
